@@ -24,3 +24,9 @@ se atrasar ou não.
 - Utilização do Spark e boas práticas de programação: utilização adequada do Spark, implementada corretamente com ferramentas pertinentes. Por exemplo, a utilização prematura do Pandas será considerado um redutor da nota, assim como a subutilização das funções vistas em sala de aula.
 - Robustez e criatividade:considera a robustez do trabalho final (o modelo faz sentido?), bem como a criatividade na resolução do problema proposto (como utilizar os dados?). Importante: “simples > complexo”, mas “simples != simplório” 
 - Nota geral e apresentação: propôs uma solução cuja implantação faça sentido para o negócio? Tomou decisões baseadas em dados (tabelas? Gráficos? Métricas?) Fez uma apresentação clara da proposta? 
+
+## Referencias
+- Classification and regression: This page covers algorithms for Classification and Regression. It also includes sections discussing specific classes of algorithms, such as linear methods, trees, and ensembles -> https://spark.apache.org/docs/latest/ml-classification-regression.html
+- Feature Selection Using Feature Importance Score - Creating a PySpark Estimator: https://www.timlrx.com/blog/feature-selection-using-feature-importance-score-creating-a-pyspark-estimator
+- 5 Reasons Why You Should Learn Apache Spark Now: https://www.projectpro.io/article/5-reasons-why-you-should-learn-apache-spark-now/192
+- Building a Feature engineering pipeline and ML Model using PySpark: https://medium.com/analytics-vidhya/building-a-feature-engineering-pipeline-and-ml-model-using-pyspark-7036375cd081
